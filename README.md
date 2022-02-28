@@ -1,3 +1,3 @@
 # Learn Git
 
-Start learning now
+Start learning now!
